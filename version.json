@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "notes": "- Sửa lỗi tải file BHYT\n- Thêm tính năng xuất báo cáo mới\n- Cải thiện tốc độ khớp",
-  "url": "https://link-tai-phan-mem-phien-ban-moi-cua-ban.com"
+  "version": "2.1.9",
+  "notes": "- Thêm tính năng lấy dữ liệu tự động từ hồ sơ chi tiết cổng BH (có cột Ngày vào nội trú và Số ngày điều trị)\n- Thêm tính năng lấy dữ liệu tự động từ hồ sơ 01/BH trên cổng BH\n- Cải thiện quy luật đối chiếu",
+  "url": "https://link-tai-phan-mem-doi-chieu-01BH-2.1.9.com"
 }
