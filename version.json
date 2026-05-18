@@ -1,5 +1,5 @@
 {
-  "version": "2.1.9",
-  "notes": "- Thêm tính năng lấy dữ liệu tự động từ hồ sơ chi tiết cổng BH (có cột Ngày vào nội trú và Số ngày điều trị)\n- Thêm tính năng lấy dữ liệu tự động từ hồ sơ 01/BH trên cổng BH\n- Cải thiện quy luật đối chiếu",
-  "url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQA3rzJZGaCZSZvAGBM9lpZEARSmcp85qk9c89P_Pryx394?e=nayckp"
+  "version": "3.1.5",
+  "notes": "- Thêm nhiều tính năng mới",
+  "url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQDims7O1zr4R6VLay6C65ITARFdIlQMJnJ7j2Ny6d0LCxg?e=aQqDE2"
 }
