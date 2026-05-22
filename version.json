@@ -1,5 +1,5 @@
 {
-  "version": "6.8.9",
-  "notes": "- Fix chuẩn hóa tiền theo Decimal chuẩn| Hỗ trợ ký số và thêm nhiều tính năng mới",
-  "url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQABTeYn3VytSrq8Sv-BMxB8AeEeuIxwF2kVPVxCWg_kPjQ?e=0BIxhg"
+  "version": "7.0.1",
+  "notes": "- Fix lỗi hiển thị khi import excell 01/BH",
+  "url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQAXWip7m6JQT6KiTaWbcxBtAbS9aAaibnKI59BGTLzSJaA?e=KMCaUB"
 }
