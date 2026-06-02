@@ -1,5 +1,5 @@
 {
-  "version": "21.1.0",
-  "notes": "-Hỗ trợ xử lý dữ liệu lớn SQLite. Chức năng: Quy trình nhanh cho người dùng phổ thông. Hỗ trợ ký số 02/BH cơ sở cha/ cơ sở con chung mẫu 02/BH"
-  "url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQC8Dp6HFXLcTKpecVBROnJUAcAZUkeRQckXn-UEEze0d00?e=jdz6kO"
+  "version": "25.6.0",
+  "notes": "Hỗ trợ ký số 02/BH cơ sở cha/ cơ sở con chung mẫu 02/BH"
+  "url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQBub-FG3Qi4R4KI0ciKvfCtAQLAcH0A1CPMFeHQExnTifQ?e=h0wMEe"
 }
