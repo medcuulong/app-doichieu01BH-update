@@ -1,7 +1,10 @@
 {
-  "version": "25.6.14",
-  "title": "Cập nhật DoiChieu01BH 25.6.14",
+  "version": "313",
+  "latest_version": "313",
+  "version_name": "25.6.14",
+  "title": "Cập nhật DoiChieu01BH V313",
   "description": "Cập nhật module XML3176, chỉnh sửa/tách xml/ký số xml đúng chuẩn và gửi cổng ổn định.",
   "download_url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQATSXCVfGSkRpp2nm2GqCsoAZh8qzzbMTsjhpcn8FKlmKQ?e=ozBksq",
+  "url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQATSXCVfGSkRpp2nm2GqCsoAZh8qzzbMTsjhpcn8FKlmKQ?e=ozBksq",
   "force_update": false
 }
