@@ -1,10 +1,5 @@
 {
-  "version": "317",
-  "latest_version": "317",
-  "version_name": "25.6.15",
-  "title": "Cập nhật DoiChieu01BH V317",
-  "description": "Cập nhật module XML3176, chỉnh sửa/tách xml/ký số xml đúng chuẩn và gửi cổng ổn định.",
-  "download_url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQCTJF2CyrL0T402FFRA2vwmAa3LORi5qm2cI8PUuNkUp_U?e=K8cZnt",
-  "url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQCTJF2CyrL0T402FFRA2vwmAa3LORi5qm2cI8PUuNkUp_U?e=K8cZnt",
-  "force_update": false
+  "version": "327",
+  "notes": "V327: Cho phép gửi trực tiếp xml/nhiều xml tại màn hình XMLView lên cổng BH. Cho phép gửi 06 bảng danh mục trực tiếp lên cổng BH.",
+  "download_url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQDVKRlxz_hnSLGF8Fk36slJAWBP6Eq4s0KnpQnVZODLMIo?e=u46pm0"
 }
