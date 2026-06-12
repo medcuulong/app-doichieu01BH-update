@@ -1,5 +1,5 @@
 {
-  "version": "327",
-  "notes": "V327: Cho phép gửi trực tiếp xml/nhiều xml tại màn hình XMLView lên cổng BH. Cho phép gửi 06 bảng danh mục trực tiếp lên cổng BH.",
-  "download_url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQDVKRlxz_hnSLGF8Fk36slJAWBP6Eq4s0KnpQnVZODLMIo?e=u46pm0"
+  "version": "328",
+  "notes": "V333: Bổ sung file hỗ trợ cài Microsoft Visual C++ Redistributable 2015-2022 x64 cho máy thiếu runtime; bổ sung hướng dẫn lỗi Visual C++; thêm PyMuPDF phục vụ preview/kéo thả khung ký PDF 02/BH.",
+  "download_url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQCDTUDPqaRJRaawVmV8jaBZARkCq1SCeticNQr9O5ifRD8?e=muDzj7"
 }
