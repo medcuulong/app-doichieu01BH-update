@@ -1,5 +1,5 @@
 {
-  "version": "328",
-  "notes": "V333: Bổ sung file hỗ trợ cài Microsoft Visual C++ Redistributable 2015-2022 x64 cho máy thiếu runtime; bổ sung hướng dẫn lỗi Visual C++; thêm PyMuPDF phục vụ preview/kéo thả khung ký PDF 02/BH.",
-  "download_url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQCDTUDPqaRJRaawVmV8jaBZARkCq1SCeticNQr9O5ifRD8?e=muDzj7"
+  "version": "329",
+  "notes": "V329: Sửa cấu trúc TT12 mẫu 05/DM - Danh mục dịch vụ kỹ thuật; thêm PyMuPDF phục vụ preview/kéo thả khung ký PDF 02/BH.",
+  "download_url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQBl24xl6Qt8RK4ydN4mBnDpAaLi6Ge9gYZXbKhRkE3Lkcc?e=CN4e7K"
 }
