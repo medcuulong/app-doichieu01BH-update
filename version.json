@@ -1,5 +1,5 @@
 {
-  "version": "329",
-  "notes": "V329: Sửa cấu trúc TT12 mẫu 05/DM - Danh mục dịch vụ kỹ thuật; thêm PyMuPDF phục vụ preview/kéo thả khung ký PDF 02/BH.",
-  "download_url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQBl24xl6Qt8RK4ydN4mBnDpAaLi6Ge9gYZXbKhRkE3Lkcc?e=CN4e7K"
+  "version": "330",
+  "notes": "V330: Sửa cơ chế kiểm tra và tự cập nhật phiên bản.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V330/DoiChieu01BH_V330.zip"
 }
