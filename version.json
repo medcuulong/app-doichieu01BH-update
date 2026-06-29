@@ -1,5 +1,6 @@
 {
-  "version": "330",
-  "notes": "V330: Sửa cơ chế kiểm tra và tự cập nhật phiên bản.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V330/DoiChieu01BH_V330.zip"
+  "version": "331",
+  "notes": "V331: Sửa tự cập nhật. Khi bấm Tự tải và cập nhật, app hiển thị tiến trình tải ZIP rõ ràng, tải xong hỏi xác nhận thoát app để giải nén/copy đè và mở lại. Tự kiểm tra phiên bản khi mở app vẫn chạy mỗi lần mở. Giữ nguyên các chức năng ổn định.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V331/DoiChieu01BH_V331.zip",
+  "manual_download_url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQA9SBwy5mJlSpsnIuVMVnDiAW_e3nVcaLyLkUwST2kvucU?e=46eVo9&download=1"
 }
