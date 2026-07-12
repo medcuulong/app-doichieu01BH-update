@@ -1,6 +1,6 @@
 {
-  "version": "332",
-  "notes": "V332: Thêm chức năng ký số mẫu 09/BH.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V332/DoiChieu01BH_V332.zip",
-  "manual_download_url": "https://vsocvn-my.sharepoint.com/:u:/g/personal/nhut_vsocvn_onmicrosoft_com/IQBoEJX33GEsSLq_IV1l3IHAATmx6QpUC9dBFxPQK--6Fwc?e=031l2o"
+  "version": "333",
+  "notes": "V333: Fix báo lỗi khi cấu hình chữ ký số chưa đúng.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V333/DoiChieu01BH_V333.zip",
+  "manual_download_url": "https://drive.google.com/file/d/167Co0lMo552FH15c_eGJAWMESLOh6UYo/view?usp=sharing"
 }
