@@ -1,6 +1,6 @@
 {
-  "version": "333",
-  "notes": "V333: Fix báo lỗi khi cấu hình chữ ký số chưa đúng.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V333/DoiChieu01BH_V333.zip",
-  "manual_download_url": "https://drive.google.com/file/d/167Co0lMo552FH15c_eGJAWMESLOh6UYo/view?usp=sharing"
+  "version": "334",
+  "notes": "V334: Tối ưu lại giao diện nhưng không thay đổi nghiệp vụ. Ẩn các chức năng khác vào Công cụ nâng cao ở mục tab cài đặt.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V334/DoiChieu01BH_V334.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1tbR7qx5x-kMoJYBsCoUQ-B3_WkxwV9kE/view?usp=sharing"
 }
