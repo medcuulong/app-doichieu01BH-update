@@ -1,6 +1,6 @@
 {
-  "version": "333",
-  "notes": "",
-  "download_url": "",
-  "manual_download_url": ""
+  "version": "334",
+  "notes": "V334: Cập nhật lại giao diện - Ẩn các chức năng khác trong phần Công cụ nâng cao trong tab Cài đặt (check vào để bật/tắt).",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V334/DoiChieu01BH_V334.zip",
+  "manual_download_url": "https://drive.google.com/file/d/12fpSbCv6YFlPNYxc3_qhmaCPQTvp8OfA/view?usp=sharing"
 }
