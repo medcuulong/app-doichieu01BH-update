@@ -1,6 +1,6 @@
 {
   "version": "335",
   "notes": "Cập nhật bộ cài và cơ chế tự động cập nhật an toàn. Fix lệch tiền 1 đồng trên mẫu 02BH",
-  "download_url": "",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V335/DoiChieu01BH_V335.zip",
   "manual_download_url": "https://drive.google.com/file/d/10cB44PlIqgfAjVwBBqXjdcYeihDOEmi2/view?usp=sharing"
 }
