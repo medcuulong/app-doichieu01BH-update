@@ -1,6 +1,6 @@
 {
-  "version": "336",
-  "notes": "V336: Thêm chức năng tạo lập mẫu 09/BH_Phiên bản dùng thử test cổng đào tạo. Cập nhật logic chức năng chuyên sâu hồ sơ đối chiếu 01/BH.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V336/DoiChieu01BH_V336.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1J8xPUoOkbj69aFT_RjHanvytm-AIXFWt/view?usp=sharing"
+  "version": "339",
+  "notes": "V339: Thêm chức năng tạo lập mẫu 09/BH và Gửi cổng BH. Thêm tính năng lưu nhiều chữ ký số theo từng cơ sở_Tài khoản cổng. Sửa lỗi xuất file trong danh sách hồ sơ hiệu chỉnh trong 01/BH.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V339/DoiChieu01BH_V339.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1HV27XdDP-rLrFgFSmhw1No_hKIW9vSWR/view?usp=sharing"
 }
