@@ -1,6 +1,6 @@
 {
-  "version": "342",
-  "notes": "V342: Cập nhật Đồng bộ tiền 3176 khi hiệu chỉnh các thông tin có thể ảnh hưởng đến chi phí; Thêm xuất Excel để hiệu chỉnh và import Excel đã chỉnh sửa; hoàn thiện cập nhật tự động từ phiên bản V342.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V342/DoiChieu01BH_v342_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1x6CeeeZfOsJSli3okz1jG8TJV9qFJs85/view?usp=sharing"
+  "version": "343",
+  "notes": "V343: Cập nhật thêm cột chỉ đọc DVKT (Mã – Tên) ngay cạnh STT_XML trên excell.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V343/DoiChieu01BH_v343_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1OT_oyXUGpifYMTFRnwMUuZQ7KyjJK2ek/view?usp=sharing"
 }
