@@ -1,6 +1,6 @@
 {
-  "version": "343",
-  "notes": "V343: Cập nhật thêm cột chỉ đọc DVKT (Mã – Tên) ngay cạnh STT_XML trên excell.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V343/DoiChieu01BH_v343_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1OT_oyXUGpifYMTFRnwMUuZQ7KyjJK2ek/view?usp=sharing"
+  "version": "344",
+  "notes": "V344: Fix lỗi áp dụng chức năng chuyên sâu trong đối chiếu 01BH. Bỏ đồng bộ tiền khi người dùng chỉ hiệu chỉnh: ngày vào, ngày ra, mã loại KCB.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V344/DoiChieu01BH_v344_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1pi5lnFhNllf-_KjZCaXbgLyuSi3GVyGy/view?usp=sharing"
 }
