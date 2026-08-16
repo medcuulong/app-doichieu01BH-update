@@ -1,6 +1,6 @@
 {
-  "version": "344",
-  "notes": "V344: Fix lỗi áp dụng chức năng chuyên sâu trong đối chiếu 01BH. Bỏ đồng bộ tiền khi người dùng chỉ hiệu chỉnh: ngày vào, ngày ra, mã loại KCB.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V344/DoiChieu01BH_v344_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1pi5lnFhNllf-_KjZCaXbgLyuSi3GVyGy/view?usp=sharing"
+  "version": "345",
+  "notes": "V345: Bổ sung cảnh báo liên kết dữ liệu khi hiệu chỉnh Mẫu 09/BH,  sửa nhanh Excel hàng loạt, kiểm soát bắt buộc đồng bộ tiền trước tạo/ký/gửi XML và cải thiện tiến trình xử lý.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V345/DoiChieu01BH_v345_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1d1sMEvLQgGnu-VlthosUgN9yJdG4UPpH/view?usp=sharing"
 }
