@@ -1,6 +1,6 @@
 {
-  "version": "346",
-  "notes": "V346: Fix lỗi xuất excell hàng loạt. Fix lỗi tiền theo Decimal.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V346/DoiChieu01BH_v346_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1pmKmWQg4QvKb0jYFvlvz25oZNZ88l9xY/view?usp=sharing"
+  "version": "347",
+  "notes": "V347: Cho phép APP giữ phiên làm việc khi dùng chữ ký số USB token, chỉ nhập mã PIN 1 lần. Cho phép xuất XML 09BH ký số hàng loạt.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V347/DoiChieu01BH_v347_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1Yd7TrlTdbyl_ZuYnlsFBeBBk7GqrcxAR/view?usp=sharing"
 }
