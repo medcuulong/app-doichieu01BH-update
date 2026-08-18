@@ -1,6 +1,6 @@
 {
-  "version": "345",
-  "notes": "V345: Bổ sung cảnh báo liên kết dữ liệu khi hiệu chỉnh Mẫu 09/BH,  sửa nhanh Excel hàng loạt, kiểm soát bắt buộc đồng bộ tiền trước tạo/ký/gửi XML và cải thiện tiến trình xử lý.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V345/DoiChieu01BH_v345_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1d1sMEvLQgGnu-VlthosUgN9yJdG4UPpH/view?usp=sharing"
+  "version": "346",
+  "notes": "V346: Fix lỗi xuất excell hàng loạt. Fix lỗi tiền theo Decimal.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V346/DoiChieu01BH_v346_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1pmKmWQg4QvKb0jYFvlvz25oZNZ88l9xY/view?usp=sharing"
 }
