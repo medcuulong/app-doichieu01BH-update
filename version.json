@@ -1,6 +1,6 @@
 {
-  "version": "348",
-  "notes": "V348: Thêm chức năng import đồng thời XML 3176 (file gốc-chưa hiệu chỉnh) và XML 3176 (file đã hiệu chỉnh trên His) để tự tạo lập XML 09BH. Fix lỗi thông tin trường Ma_the_bhyt.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V348/DoiChieu01BH_v348_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/16oz_h9eWG302qhZo-71dH-T2pLDpPTmo/view?usp=sharing"
+  "version": "349",
+  "notes": "V349: Thêm chức năng import đồng thời XML 3176 (file gốc-chưa hiệu chỉnh) và XML 3176 (file đã hiệu chỉnh trên His) để tự tạo lập XML 09BH. Fix lỗi thông tin trường Ma_the_bhyt.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V349/DoiChieu01BH_v349_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1aDv7mkUI3Jw8M7fIDTw18g6lO_0kQ8MZ/view?usp=sharing"
 }
