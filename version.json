@@ -1,6 +1,6 @@
 {
-  "version": "351",
-  "notes": "V351: Thêm chức năng tùy chọn ký số theo từng vai trò trên các mẫu 02BH, 03BH. Thêm chức năng: Ký PDF tổng hợp. Thêm hỗ trợ chữ ký số Mysign Viettel-duyệt trên điện thoại. Fix lỗi thu/phóng chữ ký tại mẫu 03BH.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V351/DoiChieu01BH_v351_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1SgfUY8xeicqB7SEib0J84b2pR9EOiwyj/view?usp=sharing"
+  "version": "352",
+  "notes": "V352: Thêm chức năng Tra cứu. Hỗ trợ CET cho Win10 cũ. Fix lỗi render pdf khi ký 03BH có nhiều trang trắng",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V352/DoiChieu01BH_v352_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1wcRq5UHAqLiUDbYFStydZBXrMw2nCMJN/view?usp=sharing"
 }
