@@ -1,6 +1,6 @@
 {
-  "version": "353",
-  "notes": "V353: Thêm ký số Mẫu 06/BH.\nThêm Chứng từ TT25: import Excel/XML CT03 Giấy ra viện và CT07 Giấy nghỉ hưởng BHXH ký số và gửi API lên Cổng BH.\nSửa cấu hình và gửi API Danh mục TT12.\nCho phép chọn số hồ sơ tối đa trong mỗi file Excel sửa nhanh Mẫu 09/BH.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V353/DoiChieu01BH_v353_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1ewnho18hxEbj0RtifTgUr9-xr5hkjeJN/view?usp=sharing"
+  "version": "354",
+  "notes": "V354: Thêm chức năng ký số Mẫu 06/BH.\nThêm chức năng ký số trực tiếp hàng loạt Giấy nghỉ hưởng BHXH.\nThêm Chứng từ TT25: import Excel/XML CT03 Giấy ra viện và CT07 Giấy nghỉ hưởng BHXH ký số và gửi API lên Cổng BH.\nSửa cấu hình và gửi API Danh mục TT12.\nCho phép chọn số hồ sơ tối đa trong mỗi file Excel sửa nhanh Mẫu 09/BH.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V354/DoiChieu01BH_v354_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/16hvDpPThWErhSZIKfxn6PrgsoC4shI6p/view?usp=sharing"
 }
