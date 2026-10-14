@@ -1,6 +1,6 @@
 {
-  "version": "362",
-  "notes": "V362: Thêm chức năng đối chiếu 01BH với dữ liệu chi tiết trong màn hình Chi phí khám chữa bệnh.\nFix kéo tùy chỉnh kích thước chữ ký và mộc khi ký 02BH.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V362/DoiChieu01BH_v362_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1JMn6tNvHq5OwlDIKxPXqiJq17N9s-VuY/view?usp=sharing"
+  "version": "363",
+  "notes": "V363: Fix lỗi chữ ký số USB token.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V363/DoiChieu01BH_v363_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/11ht8rkPOVY9n4sZUAPh2XYrs85T3X_G0/view?usp=sharing"
 }
