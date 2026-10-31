@@ -1,6 +1,6 @@
 {
-  "version": "365",
-  "notes": "Bản V365 lỗi, anh chị dùng tạm bản cũ V364.",
-  "download_url": "",
-  "manual_download_url": ""
+  "version": "366",
+  "notes": "Bản V366: Fix lỗi chữ ký số Mysign, SmartCA V1. Tối ưu chức năng đối chiếu rà soát hàng loạt.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V366/DoiChieu01BH_v366_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1gxU5fLi2D0mZHNfmkF_7ZE570BB7DMWx/view?usp=sharing"
 }
