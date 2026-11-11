@@ -1,6 +1,6 @@
 {
-  "version": "369",
-  "notes": "Bản V369: Thêm chức năng Thu Hồi-Sửa hồ sơ trực tiếp trên màn hình cổng BH. Thêm cấu hình cho chữ ký số Ban Cơ yếu – VGCA/MPKI. Fix lỗi danh mục 04/DM",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V369/DoiChieu01BH_v369_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1bwQKmQUR0juk_Tvo2NQiSMZiIr1u9n1f/view?usp=sharing"
+  "version": "370",
+  "notes": "Bản V370: Cập nhật chức năng hiệu chỉnh 09BH",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V370/DoiChieu01BH_v370_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1zuvKPNR6D0H5IitvU3nUjDj0IPccEHwc/view?usp=sharing"
 }
