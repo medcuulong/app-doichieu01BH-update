@@ -1,6 +1,6 @@
 {
-  "version": "370",
-  "notes": "Bản V370: Cập nhật chức năng hiệu chỉnh 09BH",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V370/DoiChieu01BH_v370_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1zuvKPNR6D0H5IitvU3nUjDj0IPccEHwc/view?usp=sharing"
+  "version": "371",
+  "notes": ""Bản V371:\n• Tối ưu tải dữ liệu chi tiết từ Cổng BHYT, xử lý và hiển thị bảng nhanh hơn.\n• Bổ sung tải theo khoảng ngày ra viện trong kỳ quyết toán đã chọn, không cần tải cả tháng.\n• Thêm chức năng tạo dữ liệu 01/BH trực tiếp từ hồ sơ Cổng đã nạp, không cần import lại Excel. Hỗ trợ tìm kiếm và chọn một, nhiều hoặc toàn bộ hồ sơ.\n• Cải thiện xử lý khi tải bị gián đoạn: tự thử lại trang gặp lỗi mạng hoặc quá thời gian chờ, kiểm tra đủ dữ liệu trước khi nạp kết quả.\nLưu ý: Tạo 01/BH từ Cổng sẽ thay danh sách bên phải và giữ nguyên bảng trái; các khoản tiền Cổng không cung cấp vẫn để trống. ",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V371/DoiChieu01BH_v371_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1flIStSrm_d8uaJbDeNl0jj8eEnZswD9N/view?usp=sharing"
 }
