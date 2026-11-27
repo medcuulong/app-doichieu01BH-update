@@ -1,6 +1,6 @@
 {
-  "version": "372",
-  "notes": "Bản V372:\n• Bổ sung chọn hồ sơ Thu hồi/Sửa theo danh sách Excel; giữ lựa chọn khi chuyển trang hoặc đổi bộ lọc.\n• Cải thiện ký tuần tự CT03/CT07 khi Cổng chậm đóng thông báo thành công.\n• Tối ưu ký USB mẫu 09/BH: XML và PDF đính kèm dùng chung phiên ký, hạn chế nhập lại PIN từng PDF tùy chính sách Token.",
-  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V372/DoiChieu01BH_v372_Portable.zip",
-  "manual_download_url": "https://drive.google.com/file/d/1uz2TSOoKR7ZTpTr-Zpt2eXnx37O-CnVF/view?usp=sharing"
+  "version": "373",
+  "notes": "Bản V373:\n• Thêm 10 chủ đề Lễ/Tết, ngày kỷ niệm và theo mùa. Vào Cài đặt → Chủ đề Lễ/Tết để xem trước hoặc chọn tự bật theo lịch. Mặc định app dùng giao diện bình thường.\n• Cho phép chọn riêng hoạt ảnh khi ký hồ sơ và khi lấy hồ sơ: Hai nhân vật đỏ–đen (mặc định) hoặc Băng ca hồ sơ. Đổi tại Cài đặt → Tùy chọn tiến trình.\n• Thêm hoạt ảnh máy bay giấy khi gửi lên Cổng từ Công cụ XML 3176, Danh mục TT12, Chứng từ TT25 và khi gửi XML 09/BH từ thư mục.",
+  "download_url": "https://github.com/medcuulong/app-doichieu01BH-update/releases/download/V373/DoiChieu01BH_v373_Portable.zip",
+  "manual_download_url": "https://drive.google.com/file/d/1Bm0k6F7k0oUkiTX887nro5UdHHxmtCk7/view?usp=sharing"
 }
